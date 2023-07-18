@@ -9,8 +9,8 @@ RFA:Radio Frequency Ablation(고주파절제술)<br>
 MWA:MicroWaveAblation(초극단파 열치료술)<br>
 PEI:Percutaneous Ethanol injection(경피에탄올주사)<br>
 3D-CRT:3-Dimensional Conformal Radio-tion Therapy(3차원 입체조형 방사선치료)<br>
-IMRT:Intensity Modulated Radio Therapy(세기 조절 방사선 치료)
-SBRT:Stereotacitc Body Radiation Therapy (정위 방사선 치료)
+IMRT:Intensity Modulated Radio Therapy(세기 조절 방사선 치료)<br>
+SBRT:Stereotacitc Body Radiation Therapy (정위 방사선 치료)<br>
 -------------------------------------단어---------------------------------------<br>
 Chemoport: 정맥을통해서 심장 가까이 우심방의 굵은 혈관 까지 삽입되는 관<br>
 Cryoablation: 냉동절제<br>
